@@ -1,2 +1,0 @@
-# giabii
-web static
